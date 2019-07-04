@@ -1,0 +1,68 @@
+body
+{
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    padding: 10px 20px; 
+}
+.conteudo
+{
+    font-family: Helvetica, sans-serif, arial;
+    padding: 10px 20px;
+    background: #e3e3e3;
+    overflow: hidden; 
+}
+nav
+{
+    font-size: 30px
+}
+header nav ul
+{
+    list-style: none;
+    padding-left: 0px
+}
+header nav ul li
+{
+    display: inline-block;
+    margin-right: 10px
+}
+header nav ul li a
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: darkorange;
+}
+header nav ul li a:hover
+{
+    text-decoration: underline
+}
+
+#content
+{
+    float: left;
+    width: 640px
+
+}
+#sidebar
+{
+    float: right; 
+    text-decoration: none;
+    width: 560px;
+}
+aside ul
+{
+    list-style: none;
+}
+aside ul li a
+{
+text-decoration: none;
+color: orange
+}
+aside ul li a:hover
+{
+    text-decoration: underline;
+}
+footer
+{
+    clear: both
+}
