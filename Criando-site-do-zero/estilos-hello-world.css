@@ -70,7 +70,9 @@ main
 }
 .menu ul li a:hover
 {
+    color:  #00bac6;
     border-bottom: 5px solid #00bac6;
+    padding-bottom: 30px;
 }
 section
 {
